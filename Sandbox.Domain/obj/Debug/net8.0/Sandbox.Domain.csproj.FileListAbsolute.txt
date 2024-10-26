@@ -1,0 +1,11 @@
+/Users/yegor/projects/Sandbox/Sandbox.Domain/bin/Debug/net8.0/Sandbox.Domain.deps.json
+/Users/yegor/projects/Sandbox/Sandbox.Domain/bin/Debug/net8.0/Sandbox.Domain.dll
+/Users/yegor/projects/Sandbox/Sandbox.Domain/bin/Debug/net8.0/Sandbox.Domain.pdb
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.AssemblyInfoInputs.cache
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.AssemblyInfo.cs
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.csproj.CoreCompileInputs.cache
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.dll
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/refint/Sandbox.Domain.dll
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/Sandbox.Domain.pdb
+/Users/yegor/projects/Sandbox/Sandbox.Domain/obj/Debug/net8.0/ref/Sandbox.Domain.dll
